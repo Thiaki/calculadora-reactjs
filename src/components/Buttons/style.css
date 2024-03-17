@@ -1,0 +1,23 @@
+.buttons{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.buttons .input-double{
+    width: 220px;
+}
+
+.buttons input{
+    display: flex;
+    justify-content: end;
+    width: 100px;
+    height: 80px;
+    font-size: 2rem;
+    color: #363636;
+    background-color: aliceblue;
+    border: 3px solid #636363;
+    border-radius: 8px;
+    margin: 10px auto;
+}
